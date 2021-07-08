@@ -1,0 +1,8 @@
+spring:
+  profiles:
+    active: dev
+
+config:
+  info: "config info for dev(master)"
+
+
